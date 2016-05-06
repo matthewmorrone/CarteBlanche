@@ -201,11 +201,11 @@
         <activity
             android:name=".ui.IconMoreActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.Light.Translucent" />
+            android:theme="@style/AppTheme.Dark.Translucent" />
         <activity
             android:name=".viewer.ViewerActivity"
             android:label="@string/app_name_wallpaper"
-            android:theme="@style/AppTheme.Viewer" />
+            android:theme="@style/AppTheme.Dark.Translucent" />
 
         <!-- Uncomment for Zooper, MAKE SURE YOU RENAME COM.AFOLLESTAD.POLAR TO BE UNIQUE TO YOUR PACK -->
         <!--<provider-->

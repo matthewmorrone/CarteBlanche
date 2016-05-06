@@ -48,14 +48,16 @@
         <item name="cardUseCompatPadding">true</item>
     </style>
 
-    <style name="AccentButtonLight" parent="Theme.AppCompat.Light">
+    <style name="AccentButtonLight" parent="Theme.AppCompat.NoActionBar">
         <item name="colorControlHighlight">@color/accent_1_light</item>
         <item name="colorButtonNormal">@color/accent_2_light</item>
     </style>
 
-    <style name="AccentButtonDark" parent="Theme.AppCompat.Light">
+    <style name="AccentButtonDark" parent="Theme.AppCompat.NoActionBar">
         <item name="colorControlHighlight">@color/accent_1_dark</item>
         <item name="colorButtonNormal">@color/accent_2_dark</item>
+        <item name="android:colorBackground">@android:color/background_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_primary_text_material_dark</item>
     </style>
 
 
