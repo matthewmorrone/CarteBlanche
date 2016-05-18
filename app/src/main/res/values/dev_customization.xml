@@ -20,7 +20,7 @@
     </string>
 
     <!-- Email used to send icon requests, leave empty to disable this feature. -->
-    <string name="icon_request_email">materialopensource@gmail.com</string>
+    <string name="icon_request_email">matthewmorrone1@gmail.com</string>
 
     <!-- Max number of icons that can be sent per request. -1 disables max count. The interval must ALSO be set below. -->
     <integer name="icon_request_maxcount">-1</integer>
