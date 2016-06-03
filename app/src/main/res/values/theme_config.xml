@@ -6,8 +6,8 @@
     <string name="authorName">Carte Blanche</string>
     <string name="developerName">Carte Blanche</string>
     <string name="developer_name">Carte Blanche</string>
-    <string name="developer_link">http://www.matthewmorrone.com</string>
-    <string name="theme_description">Carte Blanche is a free and open source Material Design icon pack.</string>
+    <string name="developer_link">http://www.carteblanche.com</string>
+    <string name="theme_description">Carte Blanche is a free and open source icon pack.</string>
     <string name="theme_preview1">preview1</string>
 
 </resources>

@@ -2,21 +2,21 @@
 <resources>
 
     <!-- True enables the nav drawer layout -->
-    <bool name="nav_drawer_mode_default">false</bool>
+    <bool name="nav_drawer_mode_default">true</bool>
     <!-- Good for testing to switch between tabs and nav drawer, true shows a checkbox option in the overflow menu -->
-    <bool name="allow_nav_drawer_mode_switch">false</bool>
+    <bool name="allow_nav_drawer_mode_switch">true</bool>
 
     <!-- True enables the homepage -->
     <bool name="homepage_enabled">true</bool>
     <string name="homepage_description">
-        Carte Blanche is a free and open source Material Design icon pack.
+        Carte Blanche is a free and open source icon pack.
     </string>
     <!-- The large icon displayed in the home page -->
-    <drawable name="homepage_landing_icon">@drawable/ic_web</drawable>
+    <drawable name="homepage_landing_icon">@drawable/bam</drawable>
 
     <!-- URL to JSON file containing a map of wallpapers, leave empty to disable wallpapers. -->
     <string name="wallpapers_json_url" formatted="false">
-        https://raw.githubusercontent.com/carteblanche/Android-Icon-Pack/master/Wallpapers/wallpapers.json
+        <!--https://raw.githubusercontent.com/carteblanche/Android-Icon-Pack/master/Wallpapers/wallpapers.json-->
     </string>
 
     <!-- Email used to send icon requests, leave empty to disable this feature. -->
@@ -42,10 +42,10 @@
     <bool name="persist_selected_page">true</bool>
 
     <!-- Email used to send feedback, leave empty to disable this feature. -->
-    <string name="feedback_email"></string>
+    <string name="feedback_email">matthewmorrone1@gmail.com</string>
 
     <!-- %1$s gets replaced with the name of your icon pack -->
-    <string name="feedback_subject_line"></string>
+    <string name="feedback_subject_line">%1$s feedback</string>
 
     <!--
         License key from Services & APIs on the Developer Console. Same as what's used for license checking.
@@ -64,12 +64,12 @@
 
     <!-- Leave empty to disable. A URL to a Polar Request Manager server. -->
     <string name="polar_backend_host">
-        https://polar.aidanfollestad.com
+        <!--https://polar.aidanfollestad.com-->
     </string>
 
     <!-- Host must also be filled in first. An app API key from Polar Request Manager. -->
     <string name="polar_backend_apikey">
-        47e97ef0-f7ee-11e5-aeff-8d4228a9b47a
+        <!--47e97ef0-f7ee-11e5-aeff-8d4228a9b47a-->
     </string>
 
 </resources>

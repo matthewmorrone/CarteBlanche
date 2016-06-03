@@ -12,6 +12,6 @@
         android:id="@+id/save"
         android:title="@string/save_to_device"
         android:icon="@drawable/ic_action_save"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
 
 </menu>

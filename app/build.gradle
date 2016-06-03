@@ -6,8 +6,7 @@ android {
 
     applicationVariants.all { variant ->
         variant.outputs.each { output ->
-            output.outputFile = new File(
-                    output.outputFile.parent, "CarteBlanche.apk")
+            output.outputFile = new File(output.outputFile.parent, "CarteBlanche.apk")
         }
     }
 
@@ -22,7 +21,7 @@ android {
         minSdkVersion 17
         targetSdkVersion 23
         versionCode 9
-        versionName "2.0.1"
+        versionName "1.0.0"
         generatedDensities = []
     }
 
