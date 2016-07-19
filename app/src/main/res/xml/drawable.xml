@@ -66,6 +66,7 @@
     <item drawable="action_turn_off_screen" />
     <item drawable="action_voice" />
     <item drawable="action_voice_2" />
+    <item drawable="active_directory" />
     <item drawable="active_lamp" />
     <item drawable="activity" />
     <item drawable="activity_2" />
@@ -275,6 +276,7 @@
     <item drawable="analog_clock_circular_clock" />
     <item drawable="analog_clock_pointer_clock" />
     <item drawable="anarchy" />
+    <item drawable="ancient_egyptian" />
     <item drawable="andchat" />
     <item drawable="anddoes_launcher" />
     <item drawable="anddoes_launcher_pro" />
@@ -525,10 +527,14 @@
     <item drawable="appy_gamer_2" />
     <item drawable="ar_free_flight" />
     <item drawable="arch" />
+    <item drawable="archeology" />
+    <item drawable="archeology_filled" />
     <item drawable="archer" />
     <item drawable="archery" />
+    <item drawable="archery_2" />
     <item drawable="armenian_eternity" />
     <item drawable="armor" />
+    <item drawable="armored_helmet" />
     <item drawable="army" />
     <item drawable="army_2" />
     <item drawable="army_knife" />
@@ -696,6 +702,7 @@
     <item drawable="asus_zen_ui_now_weather_cycle" />
     <item drawable="asus_zen_ui_show_ap" />
     <item drawable="at" />
+    <item drawable="at_symbol" />
     <item drawable="atm" />
     <item drawable="atom" />
     <item drawable="atom_2" />
@@ -1004,6 +1011,7 @@
     <item drawable="bind" />
     <item drawable="binocular" />
     <item drawable="binoculars" />
+    <item drawable="binoculars_filled" />
     <item drawable="biochemistry" />
     <item drawable="biohazard" />
     <item drawable="biohazard_2" />
@@ -1027,6 +1035,7 @@
     <item drawable="blitzerde" />
     <item drawable="blitzerde_2" />
     <item drawable="block" />
+    <item drawable="block_2" />
     <item drawable="block_device" />
     <item drawable="blogger" />
     <item drawable="blogger_2" />
@@ -1193,6 +1202,8 @@
     <item drawable="busybox_free" />
     <item drawable="busybox_installer" />
     <item drawable="busybox_installer_2" />
+    <item drawable="butterfly" />
+    <item drawable="butterfly_2" />
     <item drawable="button" />
     <item drawable="button_download" />
     <item drawable="button_download_pressed" />
@@ -1205,6 +1216,8 @@
     <item drawable="c_cleaner_3" />
     <item drawable="c_cleaner_4" />
     <item drawable="cached" />
+    <item drawable="caduceus_wings" />
+    <item drawable="caduceus_wings_filled" />
     <item drawable="caixa_directa" />
     <item drawable="cake" />
     <item drawable="cake_2" />
@@ -1298,6 +1311,7 @@
     <item drawable="caprica_air_force_logo" />
     <item drawable="caprica_buccaneers_patch" />
     <item drawable="caprica_halatha_tauron_sun" />
+    <item drawable="captain_america" />
     <item drawable="capture_button" />
     <item drawable="captured" />
     <item drawable="car" />
@@ -1325,6 +1339,7 @@
     <item drawable="cards_2" />
     <item drawable="cards_club" />
     <item drawable="cards_diamonds" />
+    <item drawable="cards_filled" />
     <item drawable="cards_heart" />
     <item drawable="cards_spade" />
     <item drawable="carousel" />
@@ -1414,6 +1429,7 @@
     <item drawable="celtic_shield" />
     <item drawable="center_focus_strong" />
     <item drawable="center_focus_weak" />
+    <item drawable="centre_of_gravity" />
     <item drawable="champ_study" />
     <item drawable="champions_league" />
     <item drawable="change_dialog_themes_2" />
@@ -1440,6 +1456,7 @@
     <item drawable="checkmark" />
     <item drawable="cheese" />
     <item drawable="chef" />
+    <item drawable="cherry" />
     <item drawable="chess" />
     <item drawable="chess_bishop" />
     <item drawable="chess_bishop_black" />
@@ -1582,6 +1599,8 @@
     <item drawable="cloud_3" />
     <item drawable="clover_2" />
     <item drawable="clover_gamble" />
+    <item drawable="clubs" />
+    <item drawable="clubs_2" />
     <item drawable="clue" />
     <item drawable="cluster" />
     <item drawable="cluster_2" />
@@ -1605,6 +1624,7 @@
     <item drawable="code_line" />
     <item drawable="codes_of_law" />
     <item drawable="coding_html" />
+    <item drawable="coffee_cup" />
     <item drawable="coin" />
     <item drawable="coin_2" />
     <item drawable="coin_dozer" />
@@ -1742,6 +1762,17 @@
     <item drawable="cpu" />
     <item drawable="cpu_control" />
     <item drawable="cpu_flash" />
+    <item drawable="cracked" />
+    <item drawable="cracked_2" />
+    <item drawable="cracked_3" />
+    <item drawable="cracked_4" />
+    <item drawable="cracked_5" />
+    <item drawable="cracked_6" />
+    <item drawable="cracked_reader" />
+    <item drawable="cracked_square" />
+    <item drawable="cracked_vol_1" />
+    <item drawable="cracked_vol_2" />
+    <item drawable="crackedlite" />
     <item drawable="create_album_button" />
     <item drawable="create_panel_doc" />
     <item drawable="create_panel_sheet" />
@@ -1883,6 +1914,7 @@
     <item drawable="cylon" />
     <item drawable="cylon_2" />
     <item drawable="cylon_3" />
+    <item drawable="cylon_head_centurion" />
     <item drawable="cymera" />
     <item drawable="cymera_2" />
     <item drawable="d_keyboard" />
@@ -1950,6 +1982,7 @@
     <item drawable="dial_pad_3" />
     <item drawable="dialogs_button_close" />
     <item drawable="dialpad_activated" />
+    <item drawable="diamond" />
     <item drawable="diamonddash" />
     <item drawable="dic" />
     <item drawable="dict_cc" />
@@ -1979,6 +2012,11 @@
     <item drawable="diodict" />
     <item drawable="diopen" />
     <item drawable="diopen_2" />
+    <item drawable="direction_center" />
+    <item drawable="direction_east" />
+    <item drawable="direction_north" />
+    <item drawable="direction_south" />
+    <item drawable="direction_west" />
     <item drawable="directions_boat_white" />
     <item drawable="directions_fork" />
     <item drawable="disk_digger" />
@@ -1990,6 +2028,7 @@
     <item drawable="disk_usage_2" />
     <item drawable="disk_usage_and_storage_analyzer" />
     <item drawable="disk_usage_select" />
+    <item drawable="dislike" />
     <item drawable="disney_gif" />
     <item drawable="disney_gif_3" />
     <item drawable="diy_gesture_4_change" />
@@ -2005,6 +2044,7 @@
     <item drawable="donger_keyboard" />
     <item drawable="donger_keyboard_2" />
     <item drawable="donger_list" />
+    <item drawable="dos" />
     <item drawable="double_click_for_publishers" />
     <item drawable="dpad_center" />
     <item drawable="dpad_down" />
@@ -2015,6 +2055,7 @@
     <item drawable="dr_web" />
     <item drawable="dr_web_antivirus" />
     <item drawable="drag_finger" />
+    <item drawable="dragon" />
     <item drawable="drastic" />
     <item drawable="drastic_2" />
     <item drawable="drastic_3" />
@@ -2041,6 +2082,7 @@
     <item drawable="drop_snap" />
     <item drawable="drop_target_clear" />
     <item drawable="drupal_8" />
+    <item drawable="dry" />
     <item drawable="ds_shutter_pressed_holo" />
     <item drawable="dsm_bar" />
     <item drawable="dsm_dialog" />
@@ -2058,6 +2100,9 @@
     <item drawable="education" />
     <item drawable="elanus_risk_control_services" />
     <item drawable="electrical_symbol" />
+    <item drawable="element_air" />
+    <item drawable="element_fire" />
+    <item drawable="element_water" />
     <item drawable="elements" />
     <item drawable="elements_2" />
     <item drawable="email" />
@@ -2120,6 +2165,7 @@
     <item drawable="fake_chat_2" />
     <item drawable="fake_chat_3" />
     <item drawable="falcon_widget" />
+    <item drawable="fan" />
     <item drawable="fantastic_four" />
     <item drawable="fast_forward_dark_kids" />
     <item drawable="fast_rewind_dark_kids" />
@@ -2156,6 +2202,8 @@
     <item drawable="finite_state_automaton_2" />
     <item drawable="fire" />
     <item drawable="fire_2" />
+    <item drawable="firework" />
+    <item drawable="fireworks" />
     <item drawable="fitness_center_white" />
     <item drawable="flame" />
     <item drawable="flashlight" />
@@ -2166,6 +2214,8 @@
     <item drawable="floating_toucher" />
     <item drawable="floppy_disk" />
     <item drawable="floppy_disk_2" />
+    <item drawable="floppy_disk_3" />
+    <item drawable="floppy_disk_filled" />
     <item drawable="flow_free" />
     <item drawable="flow_free_2" />
     <item drawable="flow_home" />
@@ -2485,6 +2535,7 @@
     <item drawable="google_play_store_6" />
     <item drawable="google_playgames1" />
     <item drawable="google_playgames" />
+    <item drawable="google_plus" />
     <item drawable="google_plus_8" />
     <item drawable="google_plus_box" />
     <item drawable="google_plus_theme" />
@@ -2566,12 +2617,7 @@
     <item drawable="gso_plan" />
     <item drawable="gta_iii_game" />
     <item drawable="gunner_launcher_x_beta" />
-    <item drawable="guy_fawkes" />
-    <item drawable="guy_fawkes_2" />
-    <item drawable="guy_fawkes_3" />
-    <item drawable="guy_fawkes_4" />
-    <item drawable="guy_fawkes_5" />
-    <item drawable="guy_fawkes_6" />
+    <item drawable="guy_fawkes_mask" />
     <item drawable="hack_app_data" />
     <item drawable="hack_app_data_free" />
     <item drawable="hacker" />
@@ -2597,6 +2643,7 @@
     <item drawable="hen_defender_2" />
     <item drawable="here_maps" />
     <item drawable="here_maps_2" />
+    <item drawable="hexagon" />
     <item drawable="hexagon_3" />
     <item drawable="hi_def_focus" />
     <item drawable="hindi_keyboard" />
@@ -2629,9 +2676,12 @@
     <item drawable="home_switcher_3" />
     <item drawable="homescreentips" />
     <item drawable="honeycomb" />
+    <item drawable="honeycomb_2" />
     <item drawable="honeycomb_home" />
     <item drawable="honeycomb_home_2" />
     <item drawable="hong_kong" />
+    <item drawable="hospital" />
+    <item drawable="hospital_filled" />
     <item drawable="hotels" />
     <item drawable="hound" />
     <item drawable="hound_2" />
@@ -2793,6 +2843,7 @@
     <item drawable="info_4" />
     <item drawable="info_alarm" />
     <item drawable="info_now" />
+    <item drawable="informatics" />
     <item drawable="ing" />
     <item drawable="ing_2" />
     <item drawable="ingress" />
@@ -2972,6 +3023,7 @@
     <item drawable="laban_dictionary" />
     <item drawable="label" />
     <item drawable="label_outline" />
+    <item drawable="lamp_of_aladdin" />
     <item drawable="lampshade" />
     <item drawable="landmark_bank" />
     <item drawable="landmarker" />
@@ -3424,6 +3476,7 @@
     <item drawable="mathematica_4" />
     <item drawable="mathematica_5" />
     <item drawable="mathematica_6" />
+    <item drawable="matrioshka" />
     <item drawable="matryoshka" />
     <item drawable="matte_calculator" />
     <item drawable="maze" />
@@ -3560,6 +3613,8 @@
     <item drawable="metal_detector" />
     <item drawable="metal_detector_3" />
     <item drawable="metal_detector_4" />
+    <item drawable="metamorphosis" />
+    <item drawable="metamorphosis_filled" />
     <item drawable="metering_notification" />
     <item drawable="metro_pcs_voicemail_2" />
     <item drawable="metropolis" />
@@ -3624,6 +3679,7 @@
     <item drawable="molecule_3" />
     <item drawable="momondo" />
     <item drawable="money" />
+    <item drawable="money_bag" />
     <item drawable="money_bill_fire" />
     <item drawable="monocolor" />
     <item drawable="monocolor_2" />
@@ -4007,6 +4063,26 @@
     <item drawable="nuance" />
     <item drawable="null_launcher" />
     <item drawable="null_soft" />
+    <item drawable="number_0" />
+    <item drawable="number_0_filled" />
+    <item drawable="number_1" />
+    <item drawable="number_1_filled" />
+    <item drawable="number_2" />
+    <item drawable="number_2_filled" />
+    <item drawable="number_3" />
+    <item drawable="number_3_filled" />
+    <item drawable="number_4" />
+    <item drawable="number_4_filled" />
+    <item drawable="number_5" />
+    <item drawable="number_5_filled" />
+    <item drawable="number_6" />
+    <item drawable="number_6_filled" />
+    <item drawable="number_7" />
+    <item drawable="number_7_filled" />
+    <item drawable="number_8" />
+    <item drawable="number_8_filled" />
+    <item drawable="number_9" />
+    <item drawable="number_9_filled" />
     <item drawable="number_five_symbol" />
     <item drawable="numix_circle" />
     <item drawable="nyansapo" />
@@ -4189,6 +4265,7 @@
     <item drawable="partition" />
     <item drawable="party" />
     <item drawable="passport" />
+    <item drawable="passport_2" />
     <item drawable="password_safe" />
     <item drawable="password_safe_2" />
     <item drawable="pasty_free" />
@@ -4235,6 +4312,7 @@
     <item drawable="percent" />
     <item drawable="percentage" />
     <item drawable="percentage_filled" />
+    <item drawable="percentage_filled_2" />
     <item drawable="perfect_piano" />
     <item drawable="perfect_piano_2" />
     <item drawable="perfect_piano_3" />
@@ -4335,6 +4413,7 @@
     <item drawable="photosphere" />
     <item drawable="php" />
     <item drawable="php_2" />
+    <item drawable="php_3" />
     <item drawable="physics_pendulum" />
     <item drawable="pianist" />
     <item drawable="piano" />
@@ -4457,6 +4536,7 @@
     <item drawable="playing_card_spades" />
     <item drawable="playing_cards_deck" />
     <item drawable="playlist" />
+    <item drawable="playlist_2" />
     <item drawable="playlist_add_check_mtrl_alpha" />
     <item drawable="playlist_add_mtrl_alpha" />
     <item drawable="playstation" />
@@ -4502,6 +4582,8 @@
     <item drawable="pokemon_x" />
     <item drawable="pokemon_zapdos" />
     <item drawable="polaris" />
+    <item drawable="police_badge" />
+    <item drawable="police_badge_filled" />
     <item drawable="police_station" />
     <item drawable="poly" />
     <item drawable="polycon" />
@@ -4605,6 +4687,7 @@
     <item drawable="powerful_control" />
     <item drawable="powerpoint" />
     <item drawable="powerpoint_2" />
+    <item drawable="pranava" />
     <item drawable="precious_stone" />
     <item drawable="pref_ad_choices" />
     <item drawable="pref_animation" />
@@ -4669,6 +4752,7 @@
     <item drawable="psi_6" />
     <item drawable="psi_aspro" />
     <item drawable="psp_emulator" />
+    <item drawable="psychology" />
     <item drawable="public_domain" />
     <item drawable="public_domain_license" />
     <item drawable="publication" />
@@ -4704,6 +4788,7 @@
     <item drawable="qr_3" />
     <item drawable="qr_code_download" />
     <item drawable="qr_code_reader" />
+    <item drawable="quake" />
     <item drawable="qualcomm" />
     <item drawable="qualcomm_wfd_service" />
     <item drawable="quantum_logo_classroom_launcher_color" />
@@ -5874,6 +5959,8 @@
     <item drawable="sofa" />
     <item drawable="sofa_2" />
     <item drawable="software" />
+    <item drawable="software_32_bit" />
+    <item drawable="software_64_bit" />
     <item drawable="software_data_cable" />
     <item drawable="solar" />
     <item drawable="solar_system" />
@@ -5942,6 +6029,7 @@
     <item drawable="space_travel" />
     <item drawable="sparkasse" />
     <item drawable="sparkasse_plus" />
+    <item drawable="sparkle" />
     <item drawable="speed" />
     <item drawable="speed_test" />
     <item drawable="speedometer" />
@@ -5997,6 +6085,7 @@
     <item drawable="square_register_2" />
     <item drawable="square_root" />
     <item drawable="square_root_2" />
+    <item drawable="square_root_filled" />
     <item drawable="square_rounded_shape" />
     <item drawable="square_space" />
     <item drawable="square_space_2" />
@@ -6310,6 +6399,7 @@
     <item drawable="storm_defender_2" />
     <item drawable="story_button_over" />
     <item drawable="strawberry" />
+    <item drawable="street_view" />
     <item drawable="strike_emblem" />
     <item drawable="studio" />
     <item drawable="style_wallpapers" />
@@ -6359,6 +6449,7 @@
     <item drawable="surge" />
     <item drawable="surround_sound" />
     <item drawable="survey_checked" />
+    <item drawable="survival_bag" />
     <item drawable="suspend_gesture" />
     <item drawable="svg_background" />
     <item drawable="svg_background_2" />
@@ -6691,6 +6782,8 @@
     <item drawable="thors_hammer" />
     <item drawable="thread" />
     <item drawable="three_d_glasses" />
+    <item drawable="three_leaf_clover" />
+    <item drawable="three_leaf_clover_filled" />
     <item drawable="threek" />
     <item drawable="thumb_down" />
     <item drawable="thumb_keyboard" />
@@ -6788,6 +6881,9 @@
     <item drawable="transmission_5" />
     <item drawable="transparent" />
     <item drawable="transparent_glass_hd" />
+    <item drawable="treasure_chest" />
+    <item drawable="treasure_map" />
+    <item drawable="treasure_map_filled" />
     <item drawable="tree_of_life" />
     <item drawable="tree_of_life_2" />
     <item drawable="trending" />
@@ -7340,6 +7436,7 @@
     <item drawable="wedding_rings" />
     <item drawable="wedding_rings_2" />
     <item drawable="wedding_rings_3" />
+    <item drawable="wedding_rings_4" />
     <item drawable="wefunder" />
     <item drawable="wefunder_2" />
     <item drawable="welcome_arrow" />
@@ -7458,8 +7555,10 @@
     <item drawable="wings_2" />
     <item drawable="winrar" />
     <item drawable="wireless_charger_xposed" />
+    <item drawable="witch" />
     <item drawable="wiz_backup" />
     <item drawable="wiz_settings" />
+    <item drawable="wizard" />
     <item drawable="wizard_guide" />
     <item drawable="wizard_guide_hand" />
     <item drawable="wizard_guide_no_step" />
@@ -7658,7 +7757,9 @@
     <item drawable="zip_3" />
     <item drawable="zip_4" />
     <item drawable="zoom_in" />
+    <item drawable="zoom_in_filled" />
     <item drawable="zoom_out" />
+    <item drawable="zoom_out_filled" />
     <item drawable="zooper_widget_utilities" />
     <item drawable="zwanoo_speed_test" />
     <item drawable="zynga_poker" />
