@@ -25,97 +25,97 @@
 	<item component=":SMS" drawable="sms" />
 
 
-    <calendar component="ComponentInfo{cn.etouch.ecalendar2/cn.etouch.ecalendar.ECalendar}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.agus.calendar.id/com.agus.calendar.id.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.agus.romania.calendar/com.agus.romania.calendar.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.agus.ukraine.calendar/com.agus.ukraine.calendar.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.FloatingActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.GoogleCalendarUrilntentFilter}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.SearchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.VCalendarActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.providers.calendar/com.android.providers.calendar.CalendarDebugActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.android.providers.calendar/com.android.providers.calendar.CalendarDebug}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.appxy.calenmobfree/com.appxy.calenmob.activity.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.campmobile.android.dodolcalendar/com.campmobile.android.dodolcalendar.TheCalendarMainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.coderays.tamilcalendar/com.coderays.tamilcalendar.TamilDailyCalendar}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.codesector.calendar/com.codesector.calendar.CalendarActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.concentriclivers.calendar/com.concentriclivers.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.esites.ecal/com.esites.ecal.EcalActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.gau.go.launcherex.gowidget.newcalendarwidget.fullscreen/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.MonthActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.ibamb.kalenderindonesia/com.ibamb.kalenderindonesia.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.joshy21.vera.calendarplus.widgets/com.joshy21.calendar.widget.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.kfactormedia.mycalendarmobile/com.kfactormedia.mycalendarmobile.MyCalendarActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.kodeglam.calendarwear/com.kodeglam.wear.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.SplashActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.lenovo.calendar_row/com.lenovo.calendar_row.SplashActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.LaunchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.TabManagerActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.motorola.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.nhn.android.calendar/com.nhn.android.calendar.ui.activity.InitActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.onycom.android.calendar/com.onycom.android.calendar.activity.ScheduleList}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.popularapp.periodcalendar/com.popularapp.periodcalendar.AdActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.roflharrison.agenda/com.roflharrison.agenda.activity.HelpActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.tool.calendar/com.tool.calendar.SplashScreen}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.tsf.shell.widget.calendar/com.tsf.shell.plugin.summary.WidgetSummaryActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.underwood.agenda/com.underwood.agenda.WidgetConfigurationActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.underwood.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{ilpesce.web.agenda_2015/ilpesce.web.agenda_2015.main}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{im.ecloud.ecalendar/cn.etouch.ecalendar.TimeMasterActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{info.kfsoft.calendar/info.kfsoft.calendar.StartActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{jp.in.johospace.jorte/jp.in.johospace.jorte.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{net.daum.android.solcalendar/net.daum.android.solcalendar.CalendarActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.android.authenticator.activities.AccountCheckProxyActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.caldav.lib.GlobalSettingsEditor}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.jazzroutine.Life_Calendar/org.jazzroutine.Life_Calendar.Activities.Screen_Welcome}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.reber.agenda/org.reber.agenda.AgendaActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.scoutant.calendar/org.scoutant.calendar.MonthActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendarplus.ACalendarPlus}" prefix="calendar_b_"  />
-    <calendar component="ComponentInfo{ru.mail.calendar/ru.mail.calendar.activity.MailRuLoginActivity}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{se.catharsis.android.calendar/se.catharsis.android.calendar.HelpScreen}" prefix="calendar_a_" />
-    <calendar component="ComponentInfo{sk.mildev84.agendareminder/sk.mildev84.agendareminder.activities.MainActivity}" prefix="calendar_a_" />
+<calendar component="ComponentInfo{cn.etouch.ecalendar2/cn.etouch.ecalendar.ECalendar}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.agus.calendar.id/com.agus.calendar.id.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.agus.romania.calendar/com.agus.romania.calendar.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.agus.ukraine.calendar/com.agus.ukraine.calendar.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.FloatingActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.GoogleCalendarUrilntentFilter}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.SearchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.VCalendarActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.providers.calendar/com.android.providers.calendar.CalendarDebugActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.android.providers.calendar/com.android.providers.calendar.CalendarDebug}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.appxy.calenmobfree/com.appxy.calenmob.activity.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.campmobile.android.dodolcalendar/com.campmobile.android.dodolcalendar.TheCalendarMainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.coderays.tamilcalendar/com.coderays.tamilcalendar.TamilDailyCalendar}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.codesector.calendar/com.codesector.calendar.CalendarActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.concentriclivers.calendar/com.concentriclivers.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.esites.ecal/com.esites.ecal.EcalActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.gau.go.launcherex.gowidget.newcalendarwidget.fullscreen/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarCarouselActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.MonthActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.ibamb.kalenderindonesia/com.ibamb.kalenderindonesia.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.joshy21.vera.calendarplus.widgets/com.joshy21.calendar.widget.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.kfactormedia.mycalendarmobile/com.kfactormedia.mycalendarmobile.MyCalendarActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.kodeglam.calendarwear/com.kodeglam.wear.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.SplashActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.lenovo.calendar_row/com.lenovo.calendar_row.SplashActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.LaunchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.TabManagerActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.motorola.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.nhn.android.calendar/com.nhn.android.calendar.ui.activity.InitActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.onycom.android.calendar/com.onycom.android.calendar.activity.ScheduleList}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.popularapp.periodcalendar/com.popularapp.periodcalendar.AdActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.roflharrison.agenda/com.roflharrison.agenda.activity.HelpActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.tool.calendar/com.tool.calendar.SplashScreen}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.tsf.shell.widget.calendar/com.tsf.shell.plugin.summary.WidgetSummaryActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.underwood.agenda/com.underwood.agenda.WidgetConfigurationActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.underwood.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{ilpesce.web.agenda_2015/ilpesce.web.agenda_2015.main}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{im.ecloud.ecalendar/cn.etouch.ecalendar.TimeMasterActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{info.kfsoft.calendar/info.kfsoft.calendar.StartActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{jp.in.johospace.jorte/jp.in.johospace.jorte.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{net.daum.android.solcalendar/net.daum.android.solcalendar.CalendarActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.android.authenticator.activities.AccountCheckProxyActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.caldav.lib.GlobalSettingsEditor}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.jazzroutine.Life_Calendar/org.jazzroutine.Life_Calendar.Activities.Screen_Welcome}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.reber.agenda/org.reber.agenda.AgendaActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.scoutant.calendar/org.scoutant.calendar.MonthActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendarplus.ACalendarPlus}" prefix="calendar_day_"  />
+<calendar component="ComponentInfo{ru.mail.calendar/ru.mail.calendar.activity.MailRuLoginActivity}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{se.catharsis.android.calendar/se.catharsis.android.calendar.HelpScreen}" prefix="calendar_day_" />
+<calendar component="ComponentInfo{sk.mildev84.agendareminder/sk.mildev84.agendareminder.activities.MainActivity}" prefix="calendar_day_" />
 
 
 
