@@ -261,6 +261,8 @@
     <item drawable="amazon_shopping_3" />
     <item drawable="ambiance" />
     <item drawable="ambiance_2" />
+    <item drawable="ambigram" />
+    <item drawable="ambigram_2" />
     <item drawable="ambigram_air" />
     <item drawable="ambigram_earth" />
     <item drawable="ambigram_fire" />
@@ -406,6 +408,7 @@
     <item drawable="ap" />
     <item drawable="ap_mobile" />
     <item drawable="ap_mobile_2" />
+    <item drawable="ap_photography" />
     <item drawable="apartment" />
     <item drawable="aperture" />
     <item drawable="aperture_2" />
@@ -415,7 +418,11 @@
     <item drawable="aperture_6" />
     <item drawable="aperture_7" />
     <item drawable="aperture_8" />
+    <item drawable="aperture_background_shutter_camera" />
+    <item drawable="aperture_background_shutter_camera_2" />
     <item drawable="aperture_f_stop" />
+    <item drawable="aperture_outline" />
+    <item drawable="aperture_with_dots" />
     <item drawable="apex" />
     <item drawable="apex_launcher" />
     <item drawable="apex_launcher_2" />
@@ -537,6 +544,7 @@
     <item drawable="apple" />
     <item drawable="apple_2" />
     <item drawable="apple_app_store" />
+    <item drawable="apple_design" />
     <item drawable="apple_watch" />
     <item drawable="apple_watch_2" />
     <item drawable="apple_watch_3" />
@@ -558,6 +566,7 @@
     <item drawable="apps_greater_2" />
     <item drawable="apps_greater_3" />
     <item drawable="apps_greater_4" />
+    <item drawable="apps_illustration" />
     <item drawable="apps_launcher" />
     <item drawable="apps_mobile" />
     <item drawable="apps_round" />
@@ -818,6 +827,7 @@
     <item drawable="avatar_airbending" />
     <item drawable="avatar_airbending_2" />
     <item drawable="avatar_airbending_3" />
+    <item drawable="avatar_airbending_4" />
     <item drawable="avatar_airbending_5" />
     <item drawable="avatar_bloodbending" />
     <item drawable="avatar_earth_kingdom" />
@@ -831,6 +841,8 @@
     <item drawable="avatar_earthbending_2" />
     <item drawable="avatar_earthbending_3" />
     <item drawable="avatar_earthbending_4" />
+    <item drawable="avatar_energybending" />
+    <item drawable="avatar_energybending_2" />
     <item drawable="avatar_equalists" />
     <item drawable="avatar_equalists_2" />
     <item drawable="avatar_fire_nation" />
@@ -842,11 +854,13 @@
     <item drawable="avatar_fire_nation_7" />
     <item drawable="avatar_fire_nation_8" />
     <item drawable="avatar_fire_nation_9" />
+    <item drawable="avatar_firebending" />
     <item drawable="avatar_firebending_2" />
     <item drawable="avatar_firebending_3" />
     <item drawable="avatar_firebending_4" />
     <item drawable="avatar_four_elements" />
     <item drawable="avatar_four_elements_2" />
+    <item drawable="avatar_four_elements_3" />
     <item drawable="avatar_four_elements_circle" />
     <item drawable="avatar_four_elements_circle_outline" />
     <item drawable="avatar_four_logograms" />
@@ -870,6 +884,7 @@
     <item drawable="avatar_metalbending_2" />
     <item drawable="avatar_metalbending_3" />
     <item drawable="avatar_more" />
+    <item drawable="avatar_nations" />
     <item drawable="avatar_united_bending_nations" />
     <item drawable="avatar_united_bending_nations_2" />
     <item drawable="avatar_voidbending" />
@@ -889,6 +904,8 @@
     <item drawable="avatar_waterbending_4" />
     <item drawable="avatar_waterbending_5" />
     <item drawable="avatar_white_lotus" />
+    <item drawable="avatar_white_lotus_2" />
+    <item drawable="avatar_white_lotus_3" />
     <item drawable="aviate" />
     <item drawable="aviate_browser" />
     <item drawable="aviate_labs" />
@@ -972,6 +989,7 @@
     <item drawable="bank_2" />
     <item drawable="bank_gdb" />
     <item drawable="bank_muscat" />
+    <item drawable="bank_of_england" />
     <item drawable="banknotes" />
     <item drawable="banque" />
     <item drawable="bar" />
@@ -1025,17 +1043,20 @@
     <item drawable="battery_trans" />
     <item drawable="battle_bears" />
     <item drawable="battlestar_cerberus" />
+    <item drawable="battlestar_galactica" />
     <item drawable="battlestar_galactica_4" />
     <item drawable="battlestar_galactica_5" />
     <item drawable="battlestar_galactica_cylon" />
     <item drawable="battlestar_galactica_cylon_2" />
     <item drawable="battlestar_galactica_sticker" />
+    <item drawable="battlestar_pegasus" />
     <item drawable="battlestar_valkyrie" />
     <item drawable="bayonetta" />
     <item drawable="bbm" />
     <item drawable="bbm_2" />
     <item drawable="bbm_3" />
     <item drawable="bbq_screen" />
+    <item drawable="bcard_front" />
     <item drawable="beaker" />
     <item drawable="beaker_2" />
     <item drawable="beaker_3" />
@@ -1044,6 +1065,7 @@
     <item drawable="bear" />
     <item drawable="beeline" />
     <item drawable="beeswax" />
+    <item drawable="behance" />
     <item drawable="bejeweled" />
     <item drawable="bejeweled_blitz" />
     <item drawable="bell" />
@@ -1373,6 +1395,7 @@
     <item drawable="camera_16" />
     <item drawable="camera_18" />
     <item drawable="camera_auto_flash" />
+    <item drawable="camera_box" />
     <item drawable="camera_effects" />
     <item drawable="camera_enhance" />
     <item drawable="camera_flash" />
@@ -1384,6 +1407,10 @@
     <item drawable="camera_flash_pressed" />
     <item drawable="camera_flip" />
     <item drawable="camera_front" />
+    <item drawable="camera_lens" />
+    <item drawable="camera_lens_2" />
+    <item drawable="camera_lens_shutter" />
+    <item drawable="camera_lens_shutter_2" />
     <item drawable="camera_mx" />
     <item drawable="camera_photo_button_pressed" />
     <item drawable="camera_pictures" />
@@ -1421,6 +1448,7 @@
     <item drawable="car" />
     <item drawable="car_2" />
     <item drawable="car_auto_illustration" />
+    <item drawable="car_headunit_illustration" />
     <item drawable="carabiner" />
     <item drawable="carabiner_2" />
     <item drawable="card" />
@@ -1628,6 +1656,7 @@
     <item drawable="chrome_square_2" />
     <item drawable="chrome_theme" />
     <item drawable="chrome_thing_2" />
+    <item drawable="chrome_thing_3" />
     <item drawable="chrome_to_phone" />
     <item drawable="chrome_to_phone_2" />
     <item drawable="chrome_to_phone_history" />
@@ -1791,6 +1820,7 @@
     <item drawable="com_samsung_android_app_pinboard_ui_pinboardactivity" />
     <item drawable="com_sony_tvsideview_phone" />
     <item drawable="combination_graph" />
+    <item drawable="combination_lock" />
     <item drawable="combination_lock_2" />
     <item drawable="combination_pliers" />
     <item drawable="combinations" />
@@ -1861,6 +1891,7 @@
     <item drawable="compute_engine_ssh_4" />
     <item drawable="compute_engine_ssh_5" />
     <item drawable="computer_hardware_restart" />
+    <item drawable="concentric_crescent_stripes" />
     <item drawable="concentric_semicircles" />
     <item drawable="confirm_checkmark" />
     <item drawable="connect_3" />
@@ -2096,6 +2127,8 @@
     <item drawable="d_keyboard" />
     <item drawable="d_keyboard_2" />
     <item drawable="d_keyboard_3" />
+    <item drawable="daedalus_wings" />
+    <item drawable="daedalus_wings_2" />
     <item drawable="daily_motion" />
     <item drawable="dama" />
     <item drawable="dandelion_2" />
@@ -2120,6 +2153,9 @@
     <item drawable="data_transfer_download" />
     <item drawable="data_usage_2" />
     <item drawable="database02" />
+    <item drawable="database_2" />
+    <item drawable="database_3" />
+    <item drawable="database_4" />
     <item drawable="database_disk_stack" />
     <item drawable="database_disk_stack_2" />
     <item drawable="database_disk_stack_3" />
@@ -2563,6 +2599,8 @@
     <item drawable="extended_controls_5" />
     <item drawable="extract_icons" />
     <item drawable="extsdcard" />
+    <item drawable="eye_aperture" />
+    <item drawable="eye_camera" />
     <item drawable="eye_of_providence" />
     <item drawable="eyedropper_color_picker" />
     <item drawable="f2d530ba076dcbebff9b3c3d57e40b13" />
@@ -2639,6 +2677,7 @@
     <item drawable="filter_list" />
     <item drawable="filter_thumb_lomography" />
     <item drawable="filters_blue" />
+    <item drawable="final_almost" />
     <item drawable="finance" />
     <item drawable="finance_2" />
     <item drawable="finance_3" />
@@ -2669,6 +2708,7 @@
     <item drawable="finite_state_automaton_2" />
     <item drawable="fire" />
     <item drawable="fire_2" />
+    <item drawable="firebird" />
     <item drawable="firefox" />
     <item drawable="firework" />
     <item drawable="fireworks" />
@@ -2681,6 +2721,8 @@
     <item drawable="flat" />
     <item drawable="flat_ico" />
     <item drawable="fleur_de_lis" />
+    <item drawable="flickr" />
+    <item drawable="flickr_2" />
     <item drawable="flight_lite" />
     <item drawable="floating_keyboard_switcher" />
     <item drawable="floating_keyboard_switcher_2" />
@@ -2799,6 +2841,9 @@
     <item drawable="gear" />
     <item drawable="gear_android_settings" />
     <item drawable="gear_sickle_and_pen" />
+    <item drawable="gear_silhouette" />
+    <item drawable="gear_with_slit" />
+    <item drawable="gear_with_slit_2" />
     <item drawable="gears" />
     <item drawable="gears_2" />
     <item drawable="gem_diamond" />
@@ -3342,6 +3387,8 @@
     <item drawable="gravity_screen_3" />
     <item drawable="gravity_screen_4" />
     <item drawable="gravitybox_kk" />
+    <item drawable="grayscale_shutter" />
+    <item drawable="grayscale_shutter_2" />
     <item drawable="great_lakes" />
     <item drawable="great_wall" />
     <item drawable="green_theme" />
@@ -3374,6 +3421,7 @@
     <item drawable="harp" />
     <item drawable="hd_playcontrol" />
     <item drawable="hd_widgets" />
+    <item drawable="header_cluster" />
     <item drawable="header_illustration" />
     <item drawable="heat_vision" />
     <item drawable="help_circle" />
@@ -3504,6 +3552,8 @@
     <item drawable="ic_launcher_solo" />
     <item drawable="icloud_google_cloud_platform" />
     <item drawable="icloud_google_cloud_platform_2" />
+    <item drawable="icon" />
+    <item drawable="icon_2" />
     <item drawable="icon_360" />
     <item drawable="icon_360_2" />
     <item drawable="icon_changer" />
@@ -3660,6 +3710,8 @@
     <item drawable="intro_compass_ring" />
     <item drawable="intro_compass_spin" />
     <item drawable="intro_why_use" />
+    <item drawable="inverse" />
+    <item drawable="inverse_2" />
     <item drawable="invite_mms" />
     <item drawable="invite_we_chat" />
     <item drawable="ionic_column" />
@@ -3675,6 +3727,9 @@
     <item drawable="iphone_settings" />
     <item drawable="iphone_settings_2" />
     <item drawable="irene" />
+    <item drawable="iris" />
+    <item drawable="iris_2" />
+    <item drawable="iris_3" />
     <item drawable="irminsul_pillar" />
     <item drawable="iron" />
     <item drawable="irs" />
@@ -3800,6 +3855,7 @@
     <item drawable="kryptonian_fire" />
     <item drawable="kryptonian_orb" />
     <item drawable="kryptonian_orb_2" />
+    <item drawable="kryptonian_water" />
     <item drawable="ks_web_3" />
     <item drawable="ksweb" />
     <item drawable="kubernetes" />
@@ -3980,6 +4036,11 @@
     <item drawable="lenovo_app_store" />
     <item drawable="lenovo_app_store_2" />
     <item drawable="lenovo_video_player" />
+    <item drawable="lens" />
+    <item drawable="lens_2" />
+    <item drawable="lens_3" />
+    <item drawable="lens_4" />
+    <item drawable="lens_5" />
     <item drawable="letras" />
     <item drawable="level_up" />
     <item drawable="lewat_mana_traffic" />
@@ -4048,6 +4109,7 @@
     <item drawable="live_video_indicator" />
     <item drawable="live_wallpaper_picker" />
     <item drawable="live_wallpaper_picker_2" />
+    <item drawable="load_balancer" />
     <item drawable="loader_droid" />
     <item drawable="loading" />
     <item drawable="loading_2" />
@@ -4187,11 +4249,16 @@
     <item drawable="manage_applications_vault_2" />
     <item drawable="managers_yellow" />
     <item drawable="mandelbrot" />
+    <item drawable="mandelbrot_2" />
+    <item drawable="mandelbrot_3" />
+    <item drawable="mandelbrot_4" />
     <item drawable="mandelbrot_spiral" />
     <item drawable="mandelbrot_spiral_2" />
     <item drawable="mandelbrot_z4" />
+    <item drawable="mandelbrot_z4_2" />
     <item drawable="mandelbrot_z7" />
     <item drawable="mandelbrot_z7_2" />
+    <item drawable="mandelbrot_z7_3" />
     <item drawable="mantano" />
     <item drawable="mantle_logo" />
     <item drawable="map_google_android" />
@@ -4316,6 +4383,7 @@
     <item drawable="medicine" />
     <item drawable="medieval" />
     <item drawable="medium" />
+    <item drawable="medium_aperture" />
     <item drawable="medusa" />
     <item drawable="meebo" />
     <item drawable="megacast_2" />
@@ -4490,6 +4558,7 @@
     <item drawable="mobile_phone" />
     <item drawable="mobisystems_office" />
     <item drawable="mobo_genie_market" />
+    <item drawable="mockingjay" />
     <item drawable="molecule" />
     <item drawable="molecule_2" />
     <item drawable="molecule_3" />
@@ -4526,6 +4595,7 @@
     <item drawable="morse_code_keyer" />
     <item drawable="morse_code_keyer_2" />
     <item drawable="morse_code_keyer_pro" />
+    <item drawable="mortal_kombat_3" />
     <item drawable="mortal_kombat_4" />
     <item drawable="mosquito_noise" />
     <item drawable="moto_assist" />
@@ -4648,11 +4718,14 @@
     <item drawable="myscript_calculator_2" />
     <item drawable="myspace" />
     <item drawable="myspace_2" />
+    <item drawable="n8" />
     <item drawable="na_launcher" />
     <item drawable="nab" />
     <item drawable="napster" />
     <item drawable="napster_2" />
     <item drawable="naptime" />
+    <item drawable="nasa" />
+    <item drawable="nasa_2" />
     <item drawable="nasa_3" />
     <item drawable="nasa_5" />
     <item drawable="nasa_6" />
@@ -4663,12 +4736,15 @@
     <item drawable="nasa_11" />
     <item drawable="nasa_12" />
     <item drawable="nasa_13" />
+    <item drawable="nasa_14" />
     <item drawable="nasa_15" />
     <item drawable="nasa_16" />
     <item drawable="nasa_17" />
     <item drawable="nasa_insignia" />
     <item drawable="nasa_logo" />
     <item drawable="nasa_old" />
+    <item drawable="nasa_outline_2" />
+    <item drawable="nasa_seal" />
     <item drawable="national_instruments" />
     <item drawable="national_instruments_2" />
     <item drawable="natural_scientific_calculator_2" />
@@ -4790,6 +4866,7 @@
     <item drawable="nine_chat" />
     <item drawable="nine_gag" />
     <item drawable="nine_two_nine_two" />
+    <item drawable="ningbo" />
     <item drawable="nintendo_ds" />
     <item drawable="nintendo_ds_2" />
     <item drawable="nintendo_ds_3" />
@@ -4802,6 +4879,8 @@
     <item drawable="no_ad_left_image" />
     <item drawable="no_app" />
     <item drawable="no_connection_connect" />
+    <item drawable="no_crop_video_editor_instagram" />
+    <item drawable="no_crop_video_editor_instagram_2" />
     <item drawable="no_documents" />
     <item drawable="no_frequent_apps" />
     <item drawable="no_frequent_contacts" />
@@ -4954,6 +5033,7 @@
     <item drawable="objects" />
     <item drawable="objects_exchange" />
     <item drawable="objects_transform" />
+    <item drawable="obsturador" />
     <item drawable="oceans" />
     <item drawable="ocm_quickword" />
     <item drawable="octagon" />
@@ -4975,6 +5055,7 @@
     <item drawable="ok_check_mark" />
     <item drawable="okcupid" />
     <item drawable="okcupidbrokenheart" />
+    <item drawable="old_camera" />
     <item drawable="ollie_circle_trans_vector" />
     <item drawable="olympic_torch" />
     <item drawable="olympics" />
@@ -5098,6 +5179,7 @@
     <item drawable="overlay_map" />
     <item drawable="overlays" />
     <item drawable="overlays_pro" />
+    <item drawable="owl" />
     <item drawable="owl_2" />
     <item drawable="oxygen_settings_tabs" />
     <item drawable="oxygen_theme" />
@@ -5117,6 +5199,8 @@
     <item drawable="pages_round" />
     <item drawable="paint_brush" />
     <item drawable="paint_bucket" />
+    <item drawable="painted_ring" />
+    <item drawable="painted_ring_2" />
     <item drawable="painter" />
     <item drawable="painters_palette" />
     <item drawable="painters_palette_brush" />
@@ -5151,6 +5235,7 @@
     <item drawable="pasty_free" />
     <item drawable="pasty_template" />
     <item drawable="patriarchal_or_archbishop_cross" />
+    <item drawable="pattern_bullseye" />
     <item drawable="pattern_diamond" />
     <item drawable="pattern_grid" />
     <item drawable="pattern_honeycomb" />
@@ -5255,6 +5340,8 @@
     <item drawable="photo_action_icon_share" />
     <item drawable="photo_add" />
     <item drawable="photo_album" />
+    <item drawable="photo_app" />
+    <item drawable="photo_app_2" />
     <item drawable="photo_camera" />
     <item drawable="photo_collage" />
     <item drawable="photo_editor" />
@@ -5298,6 +5385,7 @@
     <item drawable="photos_5" />
     <item drawable="photoshop" />
     <item drawable="photosphere" />
+    <item drawable="photosuite_3_photo_editor" />
     <item drawable="php" />
     <item drawable="php_2" />
     <item drawable="php_3" />
@@ -5457,6 +5545,7 @@
     <item drawable="pokeball_3" />
     <item drawable="pokeball_4" />
     <item drawable="pokeball_5" />
+    <item drawable="pokemon" />
     <item drawable="pokemon_fancy" />
     <item drawable="pokemon_go" />
     <item drawable="pokemon_go_2" />
@@ -5472,6 +5561,8 @@
     <item drawable="pokemon_go_o" />
     <item drawable="pokemon_go_o_2" />
     <item drawable="pokemon_grande" />
+    <item drawable="pokemon_great_circle_of_types_2" />
+    <item drawable="pokemon_great_circle_of_types_3" />
     <item drawable="pokemon_icon" />
     <item drawable="pokemon_league" />
     <item drawable="pokemon_logo_minimalist" />
@@ -5486,6 +5577,7 @@
     <item drawable="pokemon_pokeball_decal" />
     <item drawable="pokemon_pokeball_g" />
     <item drawable="pokemon_pokeball_greatball" />
+    <item drawable="pokemon_pokeball_logos" />
     <item drawable="pokemon_pokeball_standard" />
     <item drawable="pokemon_pokeball_ultraball" />
     <item drawable="pokemon_pokemart" />
@@ -5652,6 +5744,7 @@
     <item drawable="polygon" />
     <item drawable="polyhedron" />
     <item drawable="polyhedron_2" />
+    <item drawable="polyhedron_3" />
     <item drawable="polyline_chart" />
     <item drawable="polymer" />
     <item drawable="polynomial" />
@@ -5673,6 +5766,8 @@
     <item drawable="portal_aperture_science_logo" />
     <item drawable="portal_bathroom" />
     <item drawable="portal_cake" />
+    <item drawable="portal_cake_2" />
+    <item drawable="portal_cake_3" />
     <item drawable="portal_color" />
     <item drawable="portal_color_2" />
     <item drawable="portal_combustible_lemons" />
@@ -5703,6 +5798,7 @@
     <item drawable="portal_ring_outer_holo_4" />
     <item drawable="portal_touch_wiz_style_default" />
     <item drawable="portal_turret" />
+    <item drawable="portal_two_logo" />
     <item drawable="portal_two_logo_man" />
     <item drawable="portal_two_valve_style" />
     <item drawable="portal_valve" />
@@ -6070,6 +6166,7 @@
     <item drawable="religion_taoism_daoism_yin_yang" />
     <item drawable="religion_taoism_daoism_yin_yang_2" />
     <item drawable="remap_buttons" />
+    <item drawable="reminders" />
     <item drawable="reminders_alt_white" />
     <item drawable="remote" />
     <item drawable="remote_control_collection" />
@@ -6205,11 +6302,19 @@
     <item drawable="rubik_2x2_2" />
     <item drawable="rubik_3" />
     <item drawable="rubik_4" />
+    <item drawable="rubik_4x4" />
     <item drawable="rubik_5" />
+    <item drawable="rubik_5x5" />
     <item drawable="rubik_6" />
     <item drawable="rubik_7" />
     <item drawable="rubik_cube" />
+    <item drawable="rubik_cube_2" />
+    <item drawable="rubik_cube_3" />
+    <item drawable="rubik_cube_4" />
     <item drawable="rubik_cube_5" />
+    <item drawable="rubik_cube_6" />
+    <item drawable="rubik_cube_7" />
+    <item drawable="rubik_cube_8" />
     <item drawable="rubik_cube_9" />
     <item drawable="rubik_cube_10" />
     <item drawable="rubik_cube_puzzles" />
@@ -6252,6 +6357,7 @@
     <item drawable="sailor_moon_3" />
     <item drawable="sailor_moon_4" />
     <item drawable="sailor_moon_5" />
+    <item drawable="sailor_moon_6" />
     <item drawable="sailor_moon_7" />
     <item drawable="sailor_moon_8" />
     <item drawable="sailor_moon_9" />
@@ -6552,7 +6658,10 @@
     <item drawable="settings_29" />
     <item drawable="settings_30" />
     <item drawable="settings_31" />
+    <item drawable="settings_32" />
+    <item drawable="settings_33" />
     <item drawable="settings_34" />
+    <item drawable="settings_35" />
     <item drawable="settings_36" />
     <item drawable="settings_37" />
     <item drawable="settings_38" />
@@ -6688,6 +6797,7 @@
     <item drawable="sheets_launcher_color" />
     <item drawable="shelf_empty" />
     <item drawable="shelf_full" />
+    <item drawable="shell" />
     <item drawable="shell_2" />
     <item drawable="sheriff_badge" />
     <item drawable="shield" />
@@ -6728,6 +6838,14 @@
     <item drawable="shuffle_balloon" />
     <item drawable="shuffle_refresh" />
     <item drawable="shuffle_star" />
+    <item drawable="shutter" />
+    <item drawable="shutter_2" />
+    <item drawable="shutter_3" />
+    <item drawable="shutter_4" />
+    <item drawable="shutter_7_panel" />
+    <item drawable="shutter_dots" />
+    <item drawable="shutter_panel" />
+    <item drawable="shutter_silhouette" />
     <item drawable="si_five" />
     <item drawable="siaxias" />
     <item drawable="sidebar" />
@@ -6853,6 +6971,7 @@
     <item drawable="slides_launcher_color" />
     <item drawable="slingbox" />
     <item drawable="slingshot" />
+    <item drawable="slot_machine" />
     <item drawable="slot_machine_2" />
     <item drawable="slot_machine_3" />
     <item drawable="slot_machine_tips_down" />
@@ -7424,6 +7543,7 @@
     <item drawable="star_and_crescent" />
     <item drawable="star_bookmark_rounded_square" />
     <item drawable="star_border_2" />
+    <item drawable="star_burst" />
     <item drawable="star_chart" />
     <item drawable="star_chart_2" />
     <item drawable="star_chart_3" />
@@ -7438,10 +7558,12 @@
     <item drawable="star_map" />
     <item drawable="star_nine_points" />
     <item drawable="star_of_lakhshmi" />
+    <item drawable="star_trek_enterprise" />
     <item drawable="star_tv" />
     <item drawable="star_walk_2" />
     <item drawable="star_wars" />
     <item drawable="star_wars_bb8" />
+    <item drawable="star_wars_bb8_2" />
     <item drawable="star_wars_boba_fett" />
     <item drawable="star_wars_c3po" />
     <item drawable="star_wars_chewbacca" />
@@ -7469,6 +7591,8 @@
     <item drawable="star_wars_stormtrooper_3" />
     <item drawable="star_wars_szturmowiec" />
     <item drawable="star_wars_wikia" />
+    <item drawable="stargate" />
+    <item drawable="stargate_sg1" />
     <item drawable="stark" />
     <item drawable="stars" />
     <item drawable="stars_2" />
@@ -7624,6 +7748,7 @@
     <item drawable="sy" />
     <item drawable="symbol" />
     <item drawable="symbol_2" />
+    <item drawable="symbol_3" />
     <item drawable="symbolab" />
     <item drawable="symbolab_2" />
     <item drawable="symbolics_free" />
@@ -8026,6 +8151,8 @@
     <item drawable="treasure_chest" />
     <item drawable="treasure_map" />
     <item drawable="treasure_map_filled" />
+    <item drawable="tree_of_life" />
+    <item drawable="tree_of_life_2" />
     <item drawable="trending" />
     <item drawable="trending_down" />
     <item drawable="trending_up" />
@@ -8039,6 +8166,7 @@
     <item drawable="trim" />
     <item drawable="triple_a" />
     <item drawable="triple_a_free" />
+    <item drawable="triple_crescent" />
     <item drawable="triquetra" />
     <item drawable="triquetra_2" />
     <item drawable="triskelion" />
@@ -8140,6 +8268,7 @@
     <item drawable="ultra_mobile_3" />
     <item drawable="umbrella_degrees" />
     <item drawable="umbrella_degrees_2" />
+    <item drawable="umec" />
     <item drawable="unclouded" />
     <item drawable="undeleter" />
     <item drawable="uneak" />
@@ -8197,6 +8326,9 @@
     <item drawable="user_shield" />
     <item drawable="ushaqi_zhuishushenqi" />
     <item drawable="ushaqi_zhuishushenqi_2" />
+    <item drawable="v8" />
+    <item drawable="v8_2" />
+    <item drawable="v8_3" />
     <item drawable="v_sign" />
     <item drawable="vault_opt_in_network" />
     <item drawable="vector_circle" />
@@ -8250,6 +8382,7 @@
     <item drawable="video_camera" />
     <item drawable="video_downloader" />
     <item drawable="video_downloader_2" />
+    <item drawable="video_lens" />
     <item drawable="video_mail_send_button" />
     <item drawable="video_mail_send_button_pressed" />
     <item drawable="video_pause_normal" />
@@ -8347,12 +8480,14 @@
     <item drawable="vsco_2" />
     <item drawable="vsco_3" />
     <item drawable="vsco_4" />
+    <item drawable="vsco_5" />
+    <item drawable="vsco_6" />
+    <item drawable="vsco_7" />
+    <item drawable="vsco_8" />
+    <item drawable="vsco_9" />
     <item drawable="vsco_cam" />
     <item drawable="vsco_cam_2" />
-    <item drawable="vsco_cam_3" />
-    <item drawable="vsco_cam_4" />
-    <item drawable="vsco_cam_5" />
-    <item drawable="vstudio_camera_360_activity" />
+    <item drawable="vstudio_camera_webcam" />
     <item drawable="vue_js" />
     <item drawable="vvv" />
     <item drawable="vz_navigator" />
@@ -8445,6 +8580,7 @@
     <item drawable="water_molcule" />
     <item drawable="water_molecule" />
     <item drawable="water_tribes" />
+    <item drawable="water_wheel" />
     <item drawable="watermelon" />
     <item drawable="wattpad" />
     <item drawable="wattpad_2" />
@@ -8474,7 +8610,6 @@
     <item drawable="weather_cloudy_top" />
     <item drawable="weather_cold" />
     <item drawable="weather_cold_2" />
-    <item drawable="weather_condition" />
     <item drawable="weather_drizzle" />
     <item drawable="weather_drizzle_2" />
     <item drawable="weather_fog_bottom" />
@@ -8502,7 +8637,6 @@
     <item drawable="weather_night_top" />
     <item drawable="weather_none" />
     <item drawable="weather_not_available" />
-    <item drawable="weather_not_available_2" />
     <item drawable="weather_overcast_bottom" />
     <item drawable="weather_overcast_top" />
     <item drawable="weather_partly_cloudy_3" />
@@ -8624,6 +8758,8 @@
     <item drawable="whicons" />
     <item drawable="whilour" />
     <item drawable="white_and_yellow_pages" />
+    <item drawable="white_rings" />
+    <item drawable="who" />
     <item drawable="whos_down_launcher" />
     <item drawable="why_combinator" />
     <item drawable="widget" />
@@ -8657,6 +8793,7 @@
     <item drawable="wifi_analyser" />
     <item drawable="wifi_tethering" />
     <item drawable="wifikeyview" />
+    <item drawable="wiki_puzzle_piece" />
     <item drawable="wikidroid" />
     <item drawable="wikipedia" />
     <item drawable="wikipedia_2" />
@@ -8685,6 +8822,7 @@
     <item drawable="wikipedia_beta_3" />
     <item drawable="wikipedia_beta_4" />
     <item drawable="wikipedia_frost" />
+    <item drawable="wikipedia_globe" />
     <item drawable="wikipedia_globe_2" />
     <item drawable="wikipedia_globe_3" />
     <item drawable="wikipedia_hexagon" />
@@ -8724,6 +8862,7 @@
     <item drawable="wizard_guide_no_step" />
     <item drawable="wolf_moon" />
     <item drawable="wolf_moon_2" />
+    <item drawable="wolf_moon_3" />
     <item drawable="wolf_moon_tattoo_set" />
     <item drawable="wolfram_alpha" />
     <item drawable="wolfram_alpha_2" />
@@ -8739,6 +8878,7 @@
     <item drawable="wolfram_cloud" />
     <item drawable="wolz" />
     <item drawable="wolz_2" />
+    <item drawable="wonderwall" />
     <item drawable="word_lens" />
     <item drawable="word_lens_2" />
     <item drawable="word_lens_3" />
