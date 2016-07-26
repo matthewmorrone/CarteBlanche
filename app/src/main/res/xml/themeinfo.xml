@@ -3,7 +3,5 @@
     <versionName>1.0</versionName>
     <versionCode>1</versionCode>
     <themeName>Carte Blanche</themeName>
-    <themePointColor>#2196F3</themePointColor>
-    <themePreview img1="preview1" />
-    <preview img1="preview1" />
+    <themePointColor>#0000FF</themePointColor>
 </themeInfo>

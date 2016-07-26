@@ -3,13 +3,13 @@
 
     <!-- See dev_theming for Polar theming colors -->
 
-    <color name="viewer_overlay">#40000000</color>
+    <color name="viewer_overlay">#80000000</color>
 
-    <color name="navigationview_normalicon_light">#606060</color>
-    <color name="navigationview_normalicon_dark">#9F9F9F</color>
-    <color name="navigationview_normaltext_light">#191919</color>
-    <color name="navigationview_normaltext_dark">#E6E6E6</color>
-    <color name="navigationview_selectedbg_light">#e2e2e2</color>
-    <color name="navigationview_selectedbg_dark">#474747</color>
+    <color name="navigationview_normalicon_light">#000000</color>
+    <color name="navigationview_normalicon_dark">#FFFFFF</color>
+    <color name="navigationview_normaltext_light">#000000</color>
+    <color name="navigationview_normaltext_dark">#FFFFFF</color>
+    <color name="navigationview_selectedbg_light">#FFFFFF</color>
+    <color name="navigationview_selectedbg_dark">#000000</color>
 
 </resources>

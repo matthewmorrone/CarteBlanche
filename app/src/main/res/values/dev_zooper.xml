@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!-- This info is used in the available skins list in Zooper -->
     <string name="zooper_pack_name">@string/app_name</string>
     <string name="zooper_pack_desc">Beautiful Zooper widgets for your home screen, powered by Polar.</string>
@@ -10,7 +9,7 @@
     <integer name="zooper_pack_allowsave">0</integer>
 
     <!-- This is the icon that will be shown in the plugin list in Zooper -->
-    <drawable name="zooper_pack_icon">@mipmap/ic_launcher</drawable>
+    <drawable name="zooper_pack_icon">@mipmap/psi</drawable>
 
     <!-- Setting to true will display your Zooper Widget templates within Polar -->
     <bool name="enable_zooper_page">false</bool>
@@ -22,5 +21,4 @@
         <!--<item>Widget Three</item>-->
         <!--<item>Widget Four</item>-->
     </string-array>
-
 </resources>
