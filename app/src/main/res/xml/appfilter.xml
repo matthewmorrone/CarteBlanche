@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <DockMenuAppIcon selector="a36" />
-    <scale factor="1.50" />
+    <DockMenuAppIcon selector="psi" />
+    <scale factor="1.30" />
     <filter color="#FFFFFF" mode="SCREEN"  />
     <!-- <iconback img1="_iconback" /> -->
     <!-- <iconmask img1="_iconmask" /> -->
