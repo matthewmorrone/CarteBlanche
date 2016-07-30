@@ -868,42 +868,43 @@
 	<item drawable="amazon" component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.android.AmazonActivity}" />
 	<item drawable="amazon" component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.android.home.HomeActivity}" />
 	<item drawable="amazon" component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon1" component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon1" component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.android.MainActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{com.pinsightmedia.vpl.Amazon/com.pinsightmedia.vpl.RedirectActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.android.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{fr.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{jp.amazon.mShop.android/com.amazon.mShop.android.AmazonActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{jp.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
-	<item drawable="amazon3" component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.android.MainActivity}" />
+	<item drawable="amazon" component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity}" />
+	<item drawable="amazon" component="ComponentInfo{com.pinsightmedia.vpl.Amazon/com.pinsightmedia.vpl.RedirectActivity}" />
+	<item drawable="amazon" component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.android.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{fr.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{jp.amazon.mShop.android/com.amazon.mShop.android.AmazonActivity}" />
+	<item drawable="amazon" component="ComponentInfo{jp.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
+	<item drawable="amazon" component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" />
 	<item drawable="amazon_local" component="ComponentInfo{com.amazon.ember.android/com.amazon.ember.android.SplashMainActivity}" />
 	<item drawable="amazon_local" component="ComponentInfo{com.amazon.ember.android/com.amazon.ember.android.ui.ftux.SplashMainActivity}" />
 	<item drawable="amazon_prime_now" component="ComponentInfo{com.amazon.anow/com.amazon.anow.home.WelcomeScreen}" />
 	<item drawable="amazon_prime_now" component="ComponentInfo{com.amazon.now/com.amazon.now.home.WelcomeScreen}" />
 	<item drawable="amazon_video" component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" />
-	<item drawable="amazonapp" component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" />
-	<item drawable="amazonapps" component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" />
-	<item drawable="amazonappstore" component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" />
-	<item drawable="amazonfresh" component="ComponentInfo{com.demiroot.amazonfresh/com.demiroot.amazonfresh.activities.GatewayMenuActivity}" />
-	<item drawable="amazonkindle" component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" />
-	<item drawable="amazonlocal" component="ComponentInfo{com.amazon.ember.android/com.amazon.ember.android.SplashMainActivity}" />
-	<item drawable="amazonmp3" component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.android.client.HomeActivity}" />
-	<item drawable="amazonmp3" component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.HomeActivity}" />
-	<item drawable="amazonmp3" component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" />
+	<item drawable="amazon_app" component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" />
+	<item drawable="amazon_apps" component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" />
+	<item drawable="amazon_app_store" component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}" />
+	<item drawable="amazon_fresh" component="ComponentInfo{com.demiroot.amazonfresh/com.demiroot.amazonfresh.activities.GatewayMenuActivity}" />
+	<item drawable="amazon_kindle" component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" />
+	<item drawable="amazon_local" component="ComponentInfo{com.amazon.ember.android/com.amazon.ember.android.SplashMainActivity}" />
+	<item drawable="amazon_music" component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.android.client.HomeActivity}" />
+	<item drawable="amazon_music" component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.HomeActivity}" />
+	<item drawable="amazon_music" component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" />
+	<item drawable="amazon_music" component="com.amazon.mp3/.client.activity.LauncherActivity" />
 	<item drawable="amazonphotos" component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity}" />
 	<item drawable="amazonvideo" component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" />
 	<item drawable="ambiance" component="ComponentInfo{com.urbanapps.ambiance/com.urbanapps.ambiance.LauncherActivity}" />
 	<item drawable="ambiescienceps" component="ComponentInfo{com.teslasoftware.android.ambiscience.puresleep/com.teslasoftware.android.ambiscience.puresleep.app.SplashScreen}" />
-	<item drawable="amblingbooks" component="ComponentInfo{com.amblingbooks.bookplayerlite/com.amblingbooks.player.PlayControl}" />
-	<item drawable="amblingbooks" component="ComponentInfo{com.amblingbooks.bookplayerpro/com.amblingbooks.player.PlayControl}" />
+	<item drawable="ambling_books" component="ComponentInfo{com.amblingbooks.bookplayerlite/com.amblingbooks.player.PlayControl}" />
+	<item drawable="ambling_books" component="ComponentInfo{com.amblingbooks.bookplayerpro/com.amblingbooks.player.PlayControl}" />
 	<item drawable="amc" component="ComponentInfo{com.amc/com.amc.SplashActivity}" />
 	<item drawable="amc_security" component="ComponentInfo{com.iobit.mobilecare/com.iobit.mobilecare.activity.WelcomeActivity}" />
-	<item drawable="americanairlines" component="ComponentInfo{com.aa.android/com.aa.android.view.SplashActivity}" />
+	<item drawable="american_airlines" component="ComponentInfo{com.aa.android/com.aa.android.view.SplashActivity}" />
 	<item drawable="amex" component="ComponentInfo{com.americanexpress.android.acctsvcs.au/com.americanexpress.android.intl.app.view.activity.SplashActivity}" />
 	<item drawable="amex" component="ComponentInfo{com.americanexpress.android.acctsvcs.in/com.americanexpress.android.intl.app.view.activity.SplashActivity}" />
 	<item drawable="amex" component="ComponentInfo{com.americanexpress.android.acctsvcs.mx/com.americanexpress.android.intl.app.view.activity.SplashActivity}" />
@@ -8126,7 +8127,7 @@
 	<item drawable="com_mxtech_videoplayer_ad_activityvideolist" component="ComponentInfo{com.android.DroidLivePlayer/com.android.DroidLivePlayer.ActivityMainMenu}" />
 	<item drawable="com_mxtech_videoplayer_ad_activityvideolist" component="ComponentInfo{com.android.DroidLivePlayer/com.android.DroidLivePlayer.DroidLiveMenu}" />
 	<item drawable="com_mxtech_videoplayer_ad_activityvideolist" component="ComponentInfo{com.vblast.xiialive.full/com.vblast.xiialive.ActivityMainMenu}" />
-	<item drawable="com_myfitnesspal_android_login_welcome" component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome}" />
+	<item drawable="my_fitness_pal" component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome}" />
 	<item drawable="com_namcowireless_flightcontrol_demo_flightcontrol" component="ComponentInfo{aero.sita.lab.resmobileweb.android.mh/aero.developer.iTravel.foo.Splash}" />
 	<item drawable="com_namcowireless_flightcontrol_demo_flightcontrol" component="ComponentInfo{com.airasia.mobile/com.airasia.mobile.AirAsia}" />
 	<item drawable="com_namcowireless_flightcontrol_demo_flightcontrol" component="ComponentInfo{com.alaskaairlines.android/com.alaskaair.android.activity.MainActivity}" />
@@ -15140,8 +15141,8 @@
 	<item drawable="horoscope" component="ComponentInfo{com.idmobile.horoscopepro/com.idmobile.horoscopepro.MyHoroscope}" />
 	<item drawable="horoscope" component="ComponentInfo{mobi.kingville.horoscope/mobi.kingville.horoscope.Preloader}" />
 	<item drawable="horoscope" component="ComponentInfo{net.kosev.scoping/net.kosev.scoping.MainActivity}" />
-	<item drawable="hostelworld" component="ComponentInfo{com.hostelworld.app/com.hostelworld.app.controller.ExploreActivity}" />
-	<item drawable="hostelworld" component="ComponentInfo{com.hostelworld.app/com.hostelworld.app.controller.MainActivity}" />
+	<item drawable="hostel_world" component="ComponentInfo{com.hostelworld.app/com.hostelworld.app.controller.ExploreActivity}" />
+	<item drawable="hostel_world" component="ComponentInfo{com.hostelworld.app/com.hostelworld.app.controller.MainActivity}" />
 	<item drawable="hosts_editor" component="ComponentInfo{com.nilhcem.hostseditor/com.nilhcem.hostseditor.ui.list.ListHostsActivity}" />
 	<item drawable="hot_or_not" component="ComponentInfo{com.hotornot.app/com.badoo.mobile.android.BadooActivity}" />
 	<item drawable="hotels" component="ComponentInfo{com.hcom.android/com.hcom.android.modules.initial.presenter.InitialActivity}" />
@@ -18643,7 +18644,7 @@
 	<item drawable="mydealz" component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.mydealz.Main}" />
 	<item drawable="mydealz" component="ComponentInfo{com.tippingcanoe.mydealz/com.tippingcanoe.mydealz.Mydealz_Main}" />
 	<item drawable="myee" component="ComponentInfo{uk.co.ee.myee/uk.co.ee.myee.Launcher}" />
-	<item drawable="myfitnesspal" component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome}" />
+	<item drawable="my_fitness_pal" component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome}" />
 	<item drawable="myfont" component="ComponentInfo{com.chromium.fontinstaller/com.chromium.fontinstaller.MainActivity}" />
 	<item drawable="myfont" component="ComponentInfo{com.galaxy.font.pack.fun/com.galaxy.font.pack.fun.LauncherActivity}" />
 	<item drawable="myfont" component="ComponentInfo{com.jrummy.font.installer/com.jrummy.font.installer.FontInstaller}" />
@@ -30709,7 +30710,7 @@
     <item drawable="google_voice_search" component="com.google.android.googlequicksearchbox/.VoiceSearchActivity" />
     <item drawable="google_wallet" component="com.google.android.apps.gmoney/com.google.android.apps.wallet.entrypoint.WalletRootActivity" />
     <item drawable="google_youtube_music" component="com.google.android.apps.youtube.music/.activities.MusicActivity" />
-    <item drawable="hostelworld" component="com.hostelworld.app/.controller.ExploreActivity" />
+    <item drawable="hostel_world" component="com.hostelworld.app/.controller.ExploreActivity" />
     <item drawable="hulu_plus" component="com.hulu.plus/com.hulu.plusx.activity.Root" />
     <item drawable="iconic" component="xeus.iconic/.ui.main.MainActivity" />
     <item drawable="icons_extract" component="com.phasip.iconsextract/.IconsExtract" />
@@ -30805,5 +30806,174 @@
     <item drawable="youtube_gaming" component="com.google.android.apps.youtube.gaming/.watchwhile.activity.WatchWhileActivity" />
     <item drawable="youtube_studio" component="com.google.android.apps.youtube.creator/.main.MainActivity" />
     <item drawable="zedge" component="net.zedge.android/.Main" />
+
+    <item drawable="amazon_music" component="com.amazon.mp3/.client.activity.LauncherActivity" />
+    <item drawable="gmail" component="com.google.android.gm/.ConversationListActivityGmail" />
+    <item drawable="voice_recorder" component="com.sec.android.app.voicenote/.main.VNMainActivity" />
+    <item drawable="usage_manager" component="com.sec.att.devicehealthshortcut/.DeviceHealthShortcut" />
+
+
+    <item drawable="accuweather" component="com.accuweather.android/com.accuweather.app.SplashScreen" />
+    <item drawable="airdroid" component="com.sand.airdroid/.ui.splash.SplashActivity_" />
+    <item drawable="alipay" component="com.eg.android.AlipayGphone/.AlipayLogin" />
+    <item drawable="amazon" component="com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity" />
+    <item drawable="amazon_kindle" component="com.amazon.kindle/.UpgradePage" />
+    <item drawable="amazon_music" component="com.amazon.mp3/.client.activity.LauncherActivity" />
+    <item drawable="android_pay" component="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity" />
+    <item drawable="ap_mobile" component="mnn.Android/com.ap.ui.SplashActivity" />
+    <item drawable="audible" component="com.audible.application/.SplashScreen" />
+    <item drawable="backgrounds" component="com.ogqcorp.bgh/.activity.MainActivity" />
+    <item drawable="buzzfeed" component="com.buzzfeed.android/.activity.RolloutActivity" />
+    <item drawable="calculator" component="com.sec.android.app.popupcalculator/.Calculator" />
+    <item drawable="calendar" component="com.android.calendar/.AllInOneActivity" />
+    <item drawable="calendar" component="com.google.android.calendar/com.android.calendar.AllInOneActivity" />
+    <item drawable="caller_name_id" component="com.cequint.ecid/com.cequint.hs.client.frontend.WebShell" />
+    <item drawable="camera" component="com.sec.android.app.camera/.Camera" />
+    <item drawable="carte_blanche" component="org.carteblanche.icons/.ui.MainActivity" />
+    <item drawable="cash" component="com.squareup.cash/.ui.MainActivity" />
+    <item drawable="chrome" component="com.android.chrome/com.google.android.apps.chrome.Main" />
+    <item drawable="clash_of_kings" component="com.hcg.cok.gp/com.clash.of.kings.EmpireActivity" />
+    <item drawable="clock" component="com.sec.android.app.clockpackage/.ClockPackage" />
+    <item drawable="cloud" component="com.vcast.mediamanager/.gui.activities.SplashLogoActivity" />
+    <item drawable="color_wallpapers" component="com.ninesol.colorwallpaper/.Splash" />
+    <item drawable="contacts" component="com.android.contacts/.activities.PeopleActivity" />
+    <item drawable="cover" component="com.coverscreen.cover/.StartupActivity" />
+    <item drawable="credit_karma" component="com.creditkarma.mobile/.ui.WelcomeActivity" />
+    <item drawable="dialpad" component="com.fotoable.locker/.activity.SplashActivity" />
+    <item drawable="discover" component="com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity" />
+    <item drawable="drive" component="com.google.android.apps.docs/.app.NewMainProxyActivity" />
+    <item drawable="dropbox" component="com.dropbox.android/.activity.DropboxBrowser" />
+    <item drawable="duolingo" component="com.duolingo/.app.LoginActivity" />
+    <item drawable="eatstreet" component="com.eatstreet.android/com.eatstreet.splash.SplashActivity" />
+    <item drawable="email" component="com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL" />
+    <item drawable="emergency_alerts" component="com.sec.android.app.cmas/.CmasListActivity" />
+    <item drawable="evernote" component="com.evernote/.ui.HomeActivity" />
+    <item drawable="facebook" component="com.facebook.katana/.LoginActivity" />
+    <item drawable="fandango" component="com.fandango/.Fandango" />
+    <item drawable="filter_grid" component="com.rcplatform.filtergrid/.activity.MainActivity" />
+    <item drawable="flashlight" component="com.surpax.ledflashlight.panel/com.surpax.ledflashlight.FlashlightActivity" />
+    <item drawable="foodie" component="com.linecorp.foodcam.android/.camera.CameraActivity" />
+    <item drawable="frost" component="com.sonny.lpi.frost/gridview.Main" />
+    <item drawable="frost_hollow" component="com.sonny.lpi.frost2/gridview.Main" />
+    <item drawable="galaxy_apps" component="com.sec.android.app.samsungapps/.SamsungAppsMainActivity" />
+    <item drawable="gallery" component="com.sec.android.gallery3d/.app.GalleryOpaqueActivity" />
+    <item drawable="giant_eagle" component="com.gianteagle.android/com.ge.gianteagle.activity.SplashScreenActivity" />
+    <item drawable="gif_keyboard" component="com.riffsy.FBMGIFApp/com.riffsy.ui.activity.FunboxDeciderActivity" />
+    <item drawable="giphy" component="com.giphy.messenger/.app.MainActivity" />
+    <item drawable="go90" component="com.verizonmedia.go90.enterprise/.activity.SplashActivity" />
+    <item drawable="google" component="com.google.android.apps.plus/.phone.HomeActivity" />
+    <item drawable="google" component="com.google.android.googlequicksearchbox/.SearchActivity" />
+    <item drawable="google_gmail" component="com.google.android.gm/.ConversationListActivityGmail" />
+    <item drawable="google_japanese_input" component="com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" />
+    <item drawable="google_keyboard" component="com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" />
+    <item drawable="google_korean_input" component="com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" />
+    <item drawable="google_maps" component="com.google.android.apps.maps/com.google.android.maps.MapsActivity" />
+    <item drawable="google_now_launcher" component="com.google.android.launcher/.StubApp" />
+    <item drawable="google_photos" component="com.google.android.apps.plus/.phone.PhotosLegacyLauncherActivity" />
+    <item drawable="google_pinyin_input" component="com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" />
+    <item drawable="google_play_books" component="com.google.android.apps.books/.app.BooksActivity" />
+    <item drawable="google_play_games" component="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity" />
+    <item drawable="google_play_movies_tv" component="com.google.android.videos/com.google.android.youtube.videos.EntryPoint" />
+    <item drawable="google_play_music" component="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity" />
+    <item drawable="google_play_music" component="com.sec.android.app.music/.common.activity.MusicMainActivity" />
+    <item drawable="google_play_newsstand" component="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" />
+    <item drawable="google_play_store" component="com.android.vending/.AssetBrowserActivity" />
+    <item drawable="google_translate" component="com.google.android.apps.translate/.TranslateActivity" />
+    <item drawable="great_clips" component="com.greatclips.android/.SplashActivity" />
+    <item drawable="grindr" component="com.grindrapp.android/.activity.SplashActivity" />
+    <item drawable="grommr" component="com.grokiolabs.Grommr/.MainActivity" />
+    <item drawable="groupon" component="com.groupon/.activity.TodaysDeal" />
+    <item drawable="growlr" component="com.initechapps.growlr/.ui.LoginActivity" />
+    <item drawable="grubhub" component="com.grubhub.android/com.grubhub.AppBaseLibrary.android.GHSSplashActivity" />
+    <item drawable="guess_place" component="com.cammaxapp.games.higuesstheplace/com.ansca.corona.CoronaActivity" />
+    <item drawable="hangouts" component="com.google.android.talk/.SigningInActivity" />
+    <item drawable="hbo_go" component="com.HBO/com.hbo.go.LaunchActivity" />
+    <item drawable="hello_hsk" component="com.hschinese.hsklevel6/com.hschinese.hellohsk.activity.frame.MyWebViewActivity" />
+    <item drawable="hello_words" component="com.hschinese.hskfive_hellowords/com.hschinese.basehellowords.activity.MyWebViewActivity" />
+    <item drawable="help" component="com.samsung.helphub/.HelpHubLauncherActivity" />
+    <item drawable="hostel_world" component="com.hostelworld.app/.controller.ExploreActivity" />
+    <item drawable="icon_request" component="com.sonny.iconhelper/.Request" />
+    <item drawable="imdb" component="com.imdb.mobile/.HomeActivity" />
+    <item drawable="imgur" component="com.imgur.mobile/.Launcher" />
+    <item drawable="instagram" component="com.instagram.android/.activity.MainTabActivity" />
+    <item drawable="iphone_ringtones" component="com.aggyapps.iphone6.ringtones/.SplashActivity" />
+    <item drawable="juice_jam" component="air.com.sgn.juicejam.gp/.AppEntry" />
+    <item drawable="keepsafe" component="com.kii.safe/.FrontDoorActivity" />
+    <item drawable="layout_from_instagram" component="com.instagram.layout/.LayoutActivity" />
+    <item drawable="lyft" component="me.lyft.android/.ui.MainActivity" />
+    <item drawable="magic_rush" component="com.moonton.magicrush/.AppActivity" />
+    <item drawable="mahjong" component="com.onecwireless.mahjong/.App" />
+    <item drawable="matches_puzzle" component="com.klabjan.movethematchespuzzles/.GameMatchesActivity" />
+    <item drawable="megabus_usa" component="saucon.megabus.mobile/.WheresMyMegaBus" />
+    <item drawable="memo" component="com.samsung.android.app.memo/.Main" />
+    <item drawable="messages" component="com.android.mms/.ui.ConversationComposer" />
+    <item drawable="messenger" component="com.facebook.orca/.auth.StartScreenActivity" />
+    <item drawable="miitomo" component="com.nintendo.zaaa/jp.co.nintendo.AULActivity" />
+    <item drawable="mobile_hotspot" component="com.android.settings/.Settings$WifiApSettingsActivity" />
+    <item drawable="my_files_samsung" component="com.sec.android.app.myfiles/.common.MainActivity" />
+    <item drawable="my_fitness_pal" component="com.myfitnesspal.android/.login.Welcome" />
+    <item drawable="my_verizon" component="com.vzw.hss.myverizon/.ui.activities.LauncherActivity" />
+    <item drawable="naver_dictionary" component="com.nhn.android.naverdic/.WelcomeActivity" />
+    <item drawable="netflix" component="com.netflix.mediaclient/.ui.launch.UIWebViewActivity" />
+    <item drawable="nfl_mobile" component="com.gotv.nflgamecenter.us.lite/com.nfl.mobile.SplashActivity" />
+    <item drawable="npr_news" component="org.npr.android.news/.NewsListActivity" />
+    <item drawable="ny_times" component="com.nytimes.android/.MainActivity" />
+    <item drawable="open_table" component="com.opentable/.activities.search.SearchResults" />
+    <item drawable="panda_pop" component="com.sgn.pandapop.gp/com.sgn.pandapop.MainActivity" />
+    <item drawable="pandora_radio" component="com.pandora.android/.Main" />
+    <item drawable="pat_track" component="rectangledbmi.com.pittsburghrealtimetracker/.SelectTransit" />
+    <item drawable="peel_smart_remote" component="tv.peel.app/com.peel.main.Main" />
+    <item drawable="phone" component="com.android.contacts/com.android.dialer.DialtactsActivity" />
+    <item drawable="phonetic_keyboard" component="com.hoardingsinc.phoneticskeyboard/.MainActivity" />
+    <item drawable="pixlr" component="com.pixlr.express/.StartupActivity" />
+    <item drawable="pleco" component="com.pleco.chinesesystem/.PlecoDroidMainActivity" />
+    <item drawable="pokémon_go" component="com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerNativeActivity" />
+    <item drawable="qq" component="com.tencent.mobileqq/.activity.SplashActivity" />
+    <item drawable="qq_music" component="com.tencent.qqmusicpad/.activity.AppStarterActivity" />
+    <item drawable="qr_code_reader" component="me.scan.android.client/.ui.ScanActivity" />
+    <item drawable="restaurant_quiz" component="com.aiadp.resquiz/com.tedrasoft.whatwordpics.MainActivity" />
+    <item drawable="s_health" component="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" />
+    <item drawable="s_voice" component="com.samsung.voiceserviceplatform/.ui.SVoiceMainActivity" />
+    <item drawable="samsung_milk_music" component="com.samsung.mdl.radio/.MainActivity" />
+    <item drawable="settings" component="com.android.settings/.Settings" />
+    <item drawable="setup_wizard" component="com.sec.android.app.setupwizard/.LaunchPointsActivity" />
+    <item drawable="shazam" component="com.shazam.android/.activities.SplashActivity" />
+    <item drawable="simcity" component="com.ea.game.simcitymobile_row/com.ea.common.LaunchActivity" />
+    <item drawable="skype" component="com.skype.raider/.Main" />
+    <item drawable="slacker_radio" component="com.slacker.radio/com.slacker.gui.pivot.activities.PreLaunchActivity" />
+    <item drawable="smart_switch" component="com.sec.android.easyMover/.DistributionActivity" />
+    <item drawable="snapchat" component="com.snapchat.android/.LandingPageActivity" />
+    <item drawable="sogou_input_method" component="com.sohu.inputmethod.sogou/.SogouIMELauncher" />
+    <item drawable="solid_color_wallpapers" component="com.tardyapps.solidcolors/.MainActivity" />
+    <item drawable="spotify" component="com.spotify.music/.MainActivity" />
+    <item drawable="star_music_tag_editor" component="com.music.star.startag/com.music.star.tag.MainActivity" />
+    <item drawable="starbucks" component="com.starbucks.mobilecard/.main.activity.LandingPageActivity" />
+    <item drawable="swype_dragon" component="com.nuance.swype.dtc/com.nuance.swype.input.settings.SettingsDispatch" />
+    <item drawable="textgram" component="codeadore.textgram/.MainActivity" />
+    <item drawable="the_diplomat" component="com.diplomat/.MainActivity" />
+    <item drawable="the_weather_channel" component="com.weather.samsung/com.weather.Weather.app.SplashScreenActivity" />
+    <item drawable="trivia_crack" component="com.etermax.preguntados.lite/com.etermax.preguntados.ui.SplashActivity_" />
+    <item drawable="trivia_quiz" component="com.taplane.triviaquiz/com.msi.game.MainActivity" />
+    <item drawable="tumblr" component="com.tumblr/.ui.activity.JumpoffActivity" />
+    <item drawable="twitter" component="com.twitter.android/.StartActivity" />
+    <item drawable="tx_vpn" component="xsky.txvpn/com.insthub.txvpn.activity.SplashActivity" />
+    <item drawable="uber" component="com.ubercab/.UBUberActivity" />
+    <item drawable="verizon_message" component="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning" />
+    <item drawable="video" component="com.samsung.android.video/.list.activity.VideoList" />
+    <item drawable="virtual_wallet" component="com.pnc.ecommerce.mobile.vw.android/.signOn.LogInActivity" />
+    <item drawable="voice_recorder" component="com.sec.android.app.voicenote/.main.VNMainActivity" />
+    <item drawable="voice_search" component="com.google.android.googlequicksearchbox/.VoiceSearchActivity" />
+    <item drawable="voicemail" component="com.samsung.vvm/.vvmapp.VVMApplication" />
+    <item drawable="vz_navigator" component="com.vznavigator.Generic/.Generic" />
+    <item drawable="vz_protect" component="com.asurion.android.verizon.vms/com.asurion.android.verizon.vmsp.activity.MainActivity" />
+    <item drawable="wallet" component="com.google.android.apps.gmoney/com.google.android.apps.wallet.entrypoint.WalletRootActivity" />
+    <item drawable="wechat" component="com.tencent.mm/.ui.LauncherUI" />
+    <item drawable="whatsapp" component="com.whatsapp/.Main" />
+    <item drawable="world_in_figures" component="com.economist.wif/.WorldInFiguresActivity" />
+    <item drawable="wtae" component="com.hearst.android.wtae/com.hearstdd.android.app.activity.SplashActivity" />
+    <item drawable="xiachufang" component="com.xiachufang/.activity.StartPageActivity" />
+    <item drawable="yelp" component="com.yelp.android/.ui.activities.RootActivity" />
+    <item drawable="youtube" component="com.google.android.youtube/.app.honeycomb.Shell$HomeActivity" />
+    <item drawable="youtube_music" component="com.google.android.apps.youtube.music/.activities.MusicActivity" />
 
 </resources>
