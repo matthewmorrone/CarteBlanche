@@ -9,7 +9,7 @@
     <integer name="zooper_pack_allowsave">0</integer>
 
     <!-- This is the icon that will be shown in the plugin list in Zooper -->
-    <drawable name="zooper_pack_icon">@mipmap/psi</drawable>
+    <drawable name="zooper_pack_icon">@mipmap/ic_launcher</drawable>
 
     <!-- Setting to true will display your Zooper Widget templates within Polar -->
     <bool name="enable_zooper_page">false</bool>
